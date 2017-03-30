@@ -1,0 +1,13 @@
+/* pages/search/search.wxss */
+.page-head-text{
+    text-align: center
+}
+.search-err{
+    text-align: center;
+    margin-top: 40px;
+}
+.search-err text{
+    font-size: 36rpx;
+    color: orangered;
+    
+}

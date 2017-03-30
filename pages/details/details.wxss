@@ -1,0 +1,40 @@
+/* pages/details/details.wxss */
+.details-head{
+    width: 80%;
+    margin:20rpx auto 0;
+}
+.details-head .title{
+    font-size: 44rpx;
+    color: #333;
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    line-height: 88rpx;
+}
+.details-head-box{
+    text-align: left
+}
+.details-head-box>text{
+    font-size: 24rpx;
+    color: #999;
+    line-height: 50rpx;
+    display: block
+}
+.details-head .poster{
+    width: 100%;
+}
+.details-body{
+    width: 85%;
+    margin:60rpx auto 30rpx;
+}
+.details-body .summary-title{
+    font-size: 48rpx;
+    font-weight: bold;
+    color: #000;
+    line-height: 96rpx;
+    display: block
+}
+.details-body .summary-content{
+    font-size: 26rpx;
+    color: #000
+}
