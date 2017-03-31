@@ -1,9 +1,9 @@
  
 # 微信小程序学习路程
-### >推荐学习资源：
+>### 推荐学习资源：
 [网易云的免费小程序教学视频](http://study.163.com/course/courseMain.htm?courseId=1003283028)  
 [微信官方教程](https://mp.weixin.qq.com/debug/wxadoc/dev/component/label.html)
-### >部分常用组件：
+>### 部分常用组件：
 1. [view（视图容器）](https://mp.weixin.qq.com/debug/wxadoc/dev/component/view.html)
 2. [scroll-view (可滚动视图区域)](https://mp.weixin.qq.com/debug/wxadoc/dev/component/scroll-view.html)
 3. [text (文本)](https://mp.weixin.qq.com/debug/wxadoc/dev/component/text.html)
@@ -12,7 +12,7 @@
 6. [input(输入框)](https://mp.weixin.qq.com/debug/wxadoc/dev/component/input.html)
 7. [button(按钮)](https://mp.weixin.qq.com/debug/wxadoc/dev/component/button.html)
 
-### >部分常用API：
+>### 部分常用API：
 1. [wx.request(发起的 HTTPS 请求)](https://mp.weixin.qq.com/debug/wxadoc/dev/api/network-request.html#wxrequestobject)
 2. [wx.showToast(显示消息提示框,配合wx.hideToast使用)](https://mp.weixin.qq.com/debug/wxadoc/dev/api/api-react.html#wxshowtoastobject)
 3. [wx.hideToast(隐藏消息提示框,配合wx.showToast)](https://mp.weixin.qq.com/debug/wxadoc/dev/api/api-react.html#wxhidetoast)
@@ -20,7 +20,7 @@
 5. [wx.getUserInfo(获取用户信息，需要先调用 wx.login 接口)](https://mp.weixin.qq.com/debug/wxadoc/dev/api/open.html#wxgetuserinfoobject)
 
 
-### >个人在跟着教学视频开发中遇到的问题总结
+>### 个人在跟着教学视频开发中遇到的问题总结
 1. wx.request()中header的'content-type': 'application/json'，因为没有选择好数据类型，发送请求出现错误，获取不到数据。
 2. this.detail.value "获取当前input表单的value"。
 3. onLoad:function(options){} "options为页面跳转带来的参数"。
