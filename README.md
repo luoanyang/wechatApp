@@ -28,3 +28,12 @@
 5. this.setData({data:'data'}) "用this.setData()来修改js文件中的pages里data的数据"。
 6. app.json中的pages中的文件路径为页面要加载渲染的页面，window为小程序顶部的内容，大小，颜色等数据设置。
 7. tabBar 存在时，至少存在2个。
+
+>### 开发一个简单的微信小程序，读取豆瓣的api接口，实现显示，和搜索功能
+
+1. 主页
+![主页](/source/img1.jpg)
+
+2. 搜索页
+![搜索前](/source/img2.jpg)
+![搜索后](/source/img3.jpg)
