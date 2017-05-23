@@ -33,9 +33,9 @@
 
 1. 主页
 
-![主页](/source/img1.jpg)
+![主页](/resource/img1.jpg)
 
 2. 搜索页
 
-![搜索前](/source/img2.jpg)
-![搜索后](/source/img3.jpg)
+![搜索前](/resource/img2.jpg)
+![搜索后](/resource/img3.jpg)
