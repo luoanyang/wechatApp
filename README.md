@@ -37,5 +37,5 @@
 
 2. 搜索页
 
-![搜索前](/resource/img2.jpg)
-![搜索后](/resource/img3.jpg)
+![搜索前](/resoure/img2.jpg)
+![搜索后](/resoure/img3.jpg)
