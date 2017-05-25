@@ -33,7 +33,7 @@
 
 1. 主页
 
-![主页](/resource/img1.jpg)
+![主页](/resoure/img1.jpg)
 
 2. 搜索页
 
